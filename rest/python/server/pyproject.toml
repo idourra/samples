@@ -37,4 +37,4 @@ packages = ["."]
 
 [tool.uv.sources]
 # The relative path is stored here
-ucp-sdk = { path = "../../../../sdk/python/", editable = true }
+ucp-sdk = { path = "../../../../", editable = true }
